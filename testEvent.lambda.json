@@ -17,3 +17,5 @@
   },
   "body": "{\"PickupLocation\":{\"Latitude\":47.6174755835663,\"Longitude\":-122.28837066650185}}"
 }
+
+// aws s3 cp s3://ttt-wildrydes/wildrydes-site ./ --recursive
